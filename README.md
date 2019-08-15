@@ -1,4 +1,4 @@
-# hipskeleton
+# hipskeleton v1
 
 https://www.hipmunk.com/interviews/hotel_search/scraper/NAME
 
